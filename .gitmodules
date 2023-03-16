@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GSA.UN"]
+	path = GSA.UN
+	url = https://github.com/cagarciae/gsa.un
+	shallow = true
+	registered = true
